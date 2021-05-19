@@ -1,3 +1,12 @@
+# Eleventy Blog Template for Keith
+
+Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to add PWA capabilities, including push notifications (OneSignal).
+
+## 210519a 1st Config
+As per Customize notes below
+
+***
+
 # eleventy-high-performance-blog
 
 A starter repository showing how to build a blog with the Eleventy static site generator implementing a wide range of performance best practices.
